@@ -14,5 +14,7 @@ class VerifyCsrfToken extends Middleware
     protected $except = [
         'http://localhost:8000/api/farmacias-puntos',
         // 'http://localhost:8000/api/farmacias',
+        'https://landingverifarma.balanceado.com.ar/api/farmacias-puntos',
+        'http://landingverifarma.balanceado.com.ar/api/farmacias-puntos',
     ];
 }
