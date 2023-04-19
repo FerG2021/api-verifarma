@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost, http://balanceado.com.ar, http://modularsrl.com.ar, http://apps.modularsrl.com.ar, http://laladeco.com.ar '),
+    'url' => env('APP_URL', 'http://localhost, http://balanceado.com.ar, http://modularsrl.com.ar, http://apps.modularsrl.com.ar, http://laladeco.com.ar, http://panelverifarma.laladeco.com.ar '),
 
     'asset_url' => env('ASSET_URL'),
 
